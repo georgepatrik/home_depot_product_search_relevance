@@ -1,5 +1,5 @@
 # home_depot_product_search_relevancee
-A solution to the product search relevance problem of Home Depot competition at Kaggle.com
+A solution to the product search relevance problem ofThe Home Depot's competition at Kaggle.com
 
 This repositority contains 6 files:
 
